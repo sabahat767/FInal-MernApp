@@ -1,5 +1,5 @@
 import React from 'react'
-
+//MONGO_URI=mongodb+srv://sabahat_sabir_khan:sabahatsabir555@cluster0.4hluk.mongodb.net/project0?retryWrites=true&w=majority
 function blah() {
     return (
         <div>
